@@ -1,0 +1,1 @@
+pip install tensorflow keras numpy matplotlib
